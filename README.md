@@ -60,7 +60,7 @@ Le projet est divisé en deux composants principaux :
 Ce projet est réalisé par :
 - Ait Mouna Youssef
 - Loulid Anas
-- Nser Hattab
+- Nser El hattab
 
 ## Ressources et références
 - [Arduino Core for ESP32 Documentation](https://docs.espressif.com/projects/arduino-esp32/en/latest/)
