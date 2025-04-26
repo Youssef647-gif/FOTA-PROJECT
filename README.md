@@ -56,6 +56,11 @@ Le projet est divisé en deux composants principaux :
 2. Observez les logs sur les moniteurs série :
    - ESP32 : Téléchargement du firmware et transfert UART.
    - STM32 : Réception, écriture dans la Flash, et exécution de l'application mise à jour.
+## Equipe
+Ce projet est réalisé par :
+- Ait Mouna Youssef
+- Loulid Anas
+- Nser Hattab
 
 ## Ressources et références
 - [Arduino Core for ESP32 Documentation](https://docs.espressif.com/projects/arduino-esp32/en/latest/)
